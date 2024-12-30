@@ -1,0 +1,13 @@
+../Src/LCD_4bit.c:104:13:delay	2
+../Src/LCD_4bit.c:118:22:lcd_read_status	1
+../Src/LCD_4bit.c:146:22:wait_while_busy	2
+../Src/LCD_4bit.c:164:6:lcd_write_4bit	1
+../Src/LCD_4bit.c:181:6:lcd_write_cmd	1
+../Src/LCD_4bit.c:197:13:lcd_write_data	1
+../Src/LCD_4bit.c:213:6:lcd_putchar	1
+../Src/LCD_4bit.c:225:6:lcd_init	2
+../Src/LCD_4bit.c:266:6:set_cursor	1
+../Src/LCD_4bit.c:281:6:lcd_clear	1
+../Src/LCD_4bit.c:294:6:lcd_print	2
+../Src/LCD_4bit.c:308:6:lcd_bargraph	3
+../Src/LCD_4bit.c:333:6:lcd_bargraphXY	4

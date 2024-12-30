@@ -1,0 +1,12 @@
+../Src/Traffic8.c:148:5:main	1
+../Src/Traffic8.c:226:6:SystemClock_Config	3
+../Src/Traffic8.c:264:6:lecture_BP	3
+../Src/Traffic8.c:283:6:sequenceur	18
+../Src/Traffic8.c:357:6:generation_temps	12
+../Src/Traffic8.c:407:6:lect_H	6
+../Src/Traffic8.c:429:6:controleur	1
+../Src/Traffic8.c:447:6:command	15
+../Src/Traffic8.c:525:6:HAL_TIM_PeriodElapsedCallback	2
+../Src/Traffic8.c:535:6:HAL_GPIO_EXTI_Callback	3
+../Src/Traffic8.c:544:6:HAL_UART_RxCpltCallback	1
+../Src/Traffic8.c:560:6:Error_Handler	1
