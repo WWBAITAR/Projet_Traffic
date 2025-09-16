@@ -7,9 +7,9 @@
 ## Table of contents
 [Overview](#overview)
 
-[Hardware and software](#hardware--and--software--used)
+[Hardware and software](#hardware-and-software-used)
 
-[System architecture](#System--architecture)
+[System architecture](#system-architecture)
 
 
 ## Overview 
