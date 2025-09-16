@@ -6,6 +6,8 @@
 
 ## Table of contents
 [Overview](#overview)
+[Hardware and software](#hardware--and--software--used)
+
 
 ## Overview 
 This project is a traffic-light management system built with **C and FreeRTOS**, to simulate how traffic signals are managed in an intesection of 2 roads.
