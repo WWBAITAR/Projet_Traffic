@@ -1,12 +1,15 @@
 # Real-Time traffic light controller (C + FreeRTOS)
 :earth_africa: For the french version:
- - [Français] 
+ - [Français](README.fr.md)
 
  A real-time embedded system that manages the traffic light using RTOS tasks, written in C.
 
 ## Table of contents
 [Overview](#overview)
+
 [Hardware and software](#hardware--and--software--used)
+
+[System architecture](#System--architecture)
 
 
 ## Overview 
